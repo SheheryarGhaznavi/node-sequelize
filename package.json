@@ -1,0 +1,22 @@
+{
+  "name": "node-sequelize",
+  "version": "1.0.0",
+  "description": "node.js project with sequelize, express and mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheheryarGhaznavi/node-sequelize.git"
+  },
+  "author": "sheheryarghaznavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SheheryarGhaznavi/node-sequelize/issues"
+  },
+  "homepage": "https://github.com/SheheryarGhaznavi/node-sequelize#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
